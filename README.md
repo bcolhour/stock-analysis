@@ -17,3 +17,6 @@ Create a nested for loop that puts a 1 into the cells of all columns A through J
 Modify the nested for loop to fill in a variable number of cells and rows (Hint: use variables).
 Modify the nested for loop again to put the sum of the row number and column number into each cell.
 Finally, using the same looping mechanism, find a method (through Stack Overflow or another site discussed previously) used to clear the content of the cells you have been editing in the previous step
+
+
+Added all Stock Analysis
