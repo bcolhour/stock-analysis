@@ -7,3 +7,6 @@ corrected error and successful run
 added researched code to find end row
 Added if statement to find starting and ending price
 Ran Macro to find Return
+
+Added new worksheet for All Stock Analysis 2018
+Added Headers
