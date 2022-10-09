@@ -20,3 +20,5 @@ Finally, using the same looping mechanism, find a method (through Stack Overflow
 
 
 Added all Stock Analysis
+
+Added initial formatting
