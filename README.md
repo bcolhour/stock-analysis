@@ -24,3 +24,5 @@ Added all Stock Analysis
 Added initial formatting
 
 Changed 3 properties in header
+
+Added number formatting
