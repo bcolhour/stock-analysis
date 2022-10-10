@@ -33,3 +33,5 @@ Added conditional formatting to return
 Corrected conditional return to add clear
 
 Add Buttons
+
+Tried to make input box work for year entered but I continually get an error. Run-time error '9': Subscript out of range. I am unable to make this work. 
